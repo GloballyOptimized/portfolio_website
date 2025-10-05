@@ -3,7 +3,7 @@
     "builds": [
         {
             "src": "Portfolio_Website/wsgi.py",
-            "use": "@ardnt/vercel-python-wsgi",
+            "use": "@ayush-suryawanshis-projects/vercel-python-wsgi",
             "config": { 
                 "maxLambdaSize": "20mb",
                 "runtime": "python3.9.5" 
