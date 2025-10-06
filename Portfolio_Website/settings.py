@@ -30,7 +30,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['www.ayushsuryawanshi.cloud','ayushsuryawanshi.cloud','.vercal.app']
+ALLOWED_HOSTS = ['www.ayushsuryawanshi.cloud','ayushsuryawanshi.cloud','54.159.8.213']
 
 
 # Application definition
